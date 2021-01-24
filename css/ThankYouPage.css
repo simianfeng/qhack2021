@@ -1,0 +1,122 @@
+* {
+  overflow-x: hidden;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.v136_98 {
+  width: 375px;
+  height: 812px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v136_99 {
+  width: 375px;
+  height: 812px;
+  background: rgba(241,204,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v136_100 {
+  width: 19px;
+  height: 17px;
+  background: rgba(0,0,0,0);
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  left: 293px;
+  overflow: hidden;
+}
+.v136_101 {
+  width: 17px;
+  height: 17px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.v136_102 {
+  width: 100px;
+  height: 100px;
+  background: url("../images/v136_102.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 38px;
+  overflow: hidden;
+}
+.v136_103 {
+  width: 19px;
+  height: 17px;
+  background: rgba(0,0,0,0);
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 319px;
+  overflow: hidden;
+}
+.v136_104 {
+  width: 18px;
+  height: 14px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 0px;
+}
+.v136_105 {
+  width: 19px;
+  height: 17px;
+  background: rgba(0,0,0,0);
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 345px;
+  overflow: hidden;
+}
+.v136_106 {
+  width: 19px;
+  height: 10px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 0px;
+}
+.v136_107 {
+  width: 41px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 17px;
+  left: 34px;
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.v136_121 {
+  width: 259px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 312px;
+  left: 58px;
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
